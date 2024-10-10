@@ -2,7 +2,7 @@
 title: "read_data_from_web"
 author: "Fang Wang"
 date: "2024-10-10"
-output: html_document
+output: github_document
 editor_options: 
   chunk_output_type: console
 ---
